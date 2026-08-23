@@ -1,8 +1,8 @@
 # 👋 About Me
 
-I am a Senior Software Developer. Currently I lead two teams - one specialising in Java and one in C#.
+I am a Senior Software Developer.
 
-I've coded professionally for 16+ years (and unprofessionally for nearly 40 years 😅) so I'm comfortable in any language, but my strongest skills include:
+I've coded professionally for 17+ years (and unprofessionally for nearly 40 years 😅) so I'm comfortable in any language, but my strongest skills include:
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,cs,dotnet,py,java,mysql,docker,aws,html,css,javascript,githubactions,git,github,visualstudio,vscode,astro&perline=18)](https://skillicons.dev)
 
